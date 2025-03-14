@@ -24,7 +24,7 @@ header ul li{
 /* 右サイドバーのスタイル */
 .right{
     float: right;
-    border: 5px solid red;
+    border: 5px solid yellow;
     width: 18.9%;
     height: 100%;
     padding-bottom: 1568px;
@@ -39,7 +39,7 @@ h2{
 /* 左サイドバーのスタイル */
 .left{
     float: left;
-    border: 5px solid blue; 
+    border: 5px solid green; 
     width: 80%;
 }
 
